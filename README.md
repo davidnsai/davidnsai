@@ -13,7 +13,7 @@ I have gained skills on demand by working on real world projects. I also have gr
 ### <div>[![My Github Stats](https://github-readme-stats.vercel.app/api?username=davidnsai&theme=solarized-dark&count_private=true&show_icons=true)](https://github.com/davidnsai/github-readme-stats)</div>
 ### <div>[![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=davidnsai&theme=solarized-dark)](https://github.com/davidnsai/github-readme-stats)</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidnsai&count_private=true)](https://github.com/davidnsai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidnsai&count_private=true&layout=compact)](https://github.com/davidnsai/github-readme-stats)
 
 
 ## Technical Skills
