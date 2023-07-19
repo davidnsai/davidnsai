@@ -1,8 +1,5 @@
-### <h4 align="left">Hi there 👋🏾,</h4>
-# <h1 align="center"> _**I am David Nsai**_</h1>
-
-### <h3 align="center">I am currently a  Full-stack Software Developer</h3>
-
+### Hi there 👋, I'm David Nsai
+#### I am a Full Stack Software Engineer
 <h5 align="left">I am a <i>Full-stack Software Developer 💻</i> with hands-on experience in developing simple, responsive and dynamic websites. I have been exposed to a good number of skill sets that range from software development, linux server administration and project management.
 I have gained skills on demand by working on real world projects. I also have great communication skills and remote collaboration skills which I have obtained from my role as CTO and co-founder of Zedtutors Online Services Limited.
 
